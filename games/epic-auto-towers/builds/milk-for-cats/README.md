@@ -46,7 +46,7 @@ You want to get the towers in that order:
 * (optional) Put lucky hit Princesses from left to right
 * (optional) If you are lucky with cats, you can push her already to level 4
 
-Afterwards you save some coins up to 30+ until the bossfight.
+Afterwards you save some coins up to 30+ until the bossfight. Be careful to have some additional coins for rolling the princesses. If you hit earlier luckily princesses, reduce the amount of coins you save.
 
 ![](10-boss-setup.png)
 

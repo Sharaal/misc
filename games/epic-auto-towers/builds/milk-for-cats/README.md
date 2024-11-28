@@ -51,7 +51,7 @@ Afterwards you save some coins up to 30+ until the bossfight. Be careful to have
 ![](10-boss-setup.png)
 
 Some alternatives options:
-* A early glas tower can help with the boss if you struggle getting cat scaled up fast or have higher ascensions 20+
+* An early glas tower can help with the boss if you struggle getting cat scaled up fast or have higher ascensions 20+
 
 ### After first boss: Setup princesses
 

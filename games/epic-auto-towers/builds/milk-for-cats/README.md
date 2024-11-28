@@ -13,7 +13,7 @@ This is the easiest build in my opinion, because its very easy to setup, dont ne
 
 * Starting option: Milk and cat token
 
-![](0-milk-and-cat-token.png)
+![](00-milk-and-cat-token.png)
 
 ## Early Game
 
@@ -21,7 +21,7 @@ This is the easiest build in my opinion, because its very easy to setup, dont ne
 
 The cat will get an extra 1 atk/health for each milk and more important automatically get an additional milk every round to scale up in the early very fast.
 
-![](1-cat-with-tokens.png)
+![](01-cat-with-tokens.png)
 
 ### Round 2: Add milk
 
@@ -29,13 +29,13 @@ The milk tower give the cat more milk to scale faster.
 
 (optional): Add the thieve tower for some extra coins. It also buff the chest tower which could be helpful also for the round 10 boss. You can also skip it until the early core setup is finished.
 
-![](2-milk-and-thieve.png)
+![](02-milk-and-thieve.png)
 
 ### Round 4: Early core setup
 
 The level 2 milk tower gives the milk 2 fields in front, so its an additional milk for the cat each round. Cat level 2 get more stats for each milk
 
-![](4-early-core.png)
+![](04-early-core.png)
 
 ### Round 10: Boss setup
 

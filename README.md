@@ -7,4 +7,6 @@ Welcome to my misc repository, where I store lot of different things for differe
   * Factorio
     * Blueprints
       * [City Plot](games/factorio/blueprints/README.md)
-      * [Trains](games/factorio/blueprints/trains/README.md)
+    * Blueprint books
+      * [Beacons](games/factorio/blueprint-books/beacons/README.md)
+      * [Trains](games/factorio/blueprint-books/trains/README.md)

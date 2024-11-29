@@ -80,6 +80,17 @@ Loading station for sulfuric acid to mining uranium ore:
 
 ![](loading-sulfuric-acid.png)
 
+## Loading Uranium Ore
+
+Loading station for uranium ore:
+* Has additional small station for sulfuric acid train
+* Not locked to a city plot, can freely attached to a straight track
+* Limit the trains drive to the station to the amount of trains which can be fully loaded by small curciut logic
+* Gripping arms are filtered for the ressource to prevent storing and loading accidentally other ressources
+* Incoming lines are balanced by 8x8 balancer
+
+![](loading-uranium-ore.png)
+
 ## Refuel
 
 Refuel station for all trains using rocket fuel.

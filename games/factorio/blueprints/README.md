@@ -1,3 +1,5 @@
+[Back](../../../README.md)
+
 Collection of blueprints works on its own, so no need to create a blueprint book for them.
 
 # How to use it

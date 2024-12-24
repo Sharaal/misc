@@ -2,7 +2,7 @@ Welcome to my misc repository, where I store lot of different things for differe
 
 * Games
   * Albion
-    * [Logo](games/albion/logo.jpeg)
+    * [Logo.jpeg](games/albion/logo.jpeg)
   * Beltmatic
     * Builds
       * [Beltmatic](games/beltmatic/README.md)
